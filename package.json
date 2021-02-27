@@ -25,5 +25,6 @@
     "pre-commit": "^1.2.2",
     "semantic-release": "^17.4.0"
   },
+  "scripts": {}
   "dependencies": {}
 }
