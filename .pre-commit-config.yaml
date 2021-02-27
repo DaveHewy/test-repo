@@ -1,7 +1,7 @@
 ---
 
 repos:
-  - repo: github.com/pre-commit/pre-commit-hooks
+  - repo: git://github.com/pre-commit/pre-commit-hooks
     rev: master
-    hooks: 
+    hooks:
       - id: check-json
