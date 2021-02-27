@@ -17,8 +17,12 @@
   },
   "homepage": "https://github.com/DaveHewy/test-repo#readme",
   "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "@semantic-release/github": "^7.2.0",
     "gulp": "^4.0.2",
-    "gulp-eslint": "^6.0.0"
+    "gulp-eslint": "^6.0.0",
+    "semantic-release": "^17.4.0"
   },
   "dependencies": {}
 }
